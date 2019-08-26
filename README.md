@@ -11,7 +11,7 @@ This implements the following:
 * Shared distributed state
 * Locking/Concurrency control
 
-Main Class **com.poor.cluster.Node** 
+Main Class **com.poor.cluster.ClusterNode** 
 
 ### Usage
 This can be run on multuple nodes or a single node (using multicast)
